@@ -4,8 +4,8 @@
 🚗 Drifting enthusiast | 🖥️ Hardware Engineer in the making | 🎨 Digital Artist  
 
 🔧 **Tech Stack:**  
-![C++](   )  
-![Java](   )  
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)  
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)  
 
 📌 **Pinned Repositories:**  
 - 🚀 [My cool hardware project](https://github.com/gavraluca/project)  
